@@ -17,3 +17,4 @@ workflows:
   test-master-up-to-date:
     jobs:
       - test-master-up-to-date
+
